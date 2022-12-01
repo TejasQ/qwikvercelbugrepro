@@ -5,7 +5,7 @@ import {
   useEndpoint,
 } from "@builder.io/qwik-city";
 import { LoginPage } from "~/components/LoginPage";
-import { WholeUI } from "~/components/WholeUi";
+import { WholeUI } from "~/components/WholeUI";
 import type { Timeline as TimelineType } from "~/types";
 
 import { authorize } from "~/util/oauth";
